@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @elizai
 - 👀 I’m interested in coding and gardening
-- 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on fun projects on Java and C#
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on fun projects on Java and Python
 - 📫 How to reach me at elisabetaioanas@gmail.com
 
 <!---
